@@ -1,5 +1,5 @@
 <html>
 <?php
-  header("location:WebPage/STEM-applaction-test-master/stemPageStart.php");
+  header("location:STEM-applaction-test-master/WebPage/stemPageStart.php");
 ?>
 </html>
